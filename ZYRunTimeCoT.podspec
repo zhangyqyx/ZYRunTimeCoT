@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.author       = { "zyq" => "zhangyqyx@163.com" }
   s.source   	 = { :git => 'https://github.com/zhangyqyx/ZYRunTimeCoT.git', :tag => s.version}
   s.requires_arc = true
-  s.source_files = 'runtime/*’
+  s.source_files = 'runtime/*'
   #s.public_header_files = 'runtime/TFRuntimeManager.h’
 
 end
